@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://lukeorth.com/</link>
-    <description>Recent content on </description>
+    <title>Hugo on </title>
+    <link>https://lukeorth.com/tags/hugo/</link>
+    <description>Recent content in Hugo on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Feb 2023 05:32:16 -0600</lastBuildDate><atom:link href="https://lukeorth.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 05:32:16 -0600</lastBuildDate><atom:link href="https://lukeorth.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting a Blog - take three</title>
       <link>https://lukeorth.com/posts/starting-with-hugo/</link>
@@ -20,16 +20,6 @@
 &lt;p&gt;While I knew that my posts would eventually need to be formatted in HTML, I feared this constraint might hamper my &amp;ldquo;creative juices.&amp;rdquo;  To protect my creativity, I typed my posts in a Word document and converted them to HTML once finished.&lt;/p&gt;
 &lt;p&gt;As you can imagine, this was tedious work.  Every section became a &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, every paragraph became a &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tag, every link became an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag, and so on.  Mustering the drive to write a blog post is hard enough.  Turning it into a two-step process was asinine.&lt;/p&gt;
 &lt;p&gt;I completed just two posts.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://lukeorth.com/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lukeorth.com/about/about/</guid>
-      <description>I enjoy long walks on the beach, warm, fuzzy slippers, and lattes with extra foam. ☕
-I also like computer things.</description>
     </item>
     
   </channel>

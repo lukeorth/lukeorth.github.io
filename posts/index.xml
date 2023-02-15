@@ -6,15 +6,20 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Oct 2022 11:12:19 -0500</lastBuildDate><atom:link href="https://lukeorth.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 05:32:16 -0600</lastBuildDate><atom:link href="https://lukeorth.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Maze Generation</title>
-      <link>https://lukeorth.com/posts/maze-generation/</link>
-      <pubDate>Tue, 04 Oct 2022 11:12:19 -0500</pubDate>
+      <title>Starting a Blog - take three</title>
+      <link>https://lukeorth.com/posts/starting-with-hugo/</link>
+      <pubDate>Tue, 07 Feb 2023 05:32:16 -0600</pubDate>
       
-      <guid>https://lukeorth.com/posts/maze-generation/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://lukeorth.com/images/maze-generation/maze.gif&#34; alt=&#34;Maze Animation&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I recently watched &lt;a href=&#34;https://www.youtube.com/watch?v=HyK_Q5rrcr4&#34;&gt;this YouTube series&lt;/a&gt; on maze generation by Daniel Shiffman (The Coding Train) and was intrigued by the animations being produced.  Since Shiffman developed his example using JavaScript, I thought it would be fun to port it to Go and document the journey.&lt;/p&gt;</description>
+      <guid>https://lukeorth.com/posts/starting-with-hugo/</guid>
+      <description>&lt;p&gt;Several years ago, I started a blog.&lt;/p&gt;
+&lt;p&gt;At the time, I was a college sophomore looking for internship opportunities.  I had just finished my second programming class and had zero experience outside the classroom.  The blog was my gambit.&lt;/p&gt;
+&lt;p&gt;My web development skills were nil (or null if you prefer), but I knew enough to understand that my C++ coursework wouldn&amp;rsquo;t help.  After some quick research, I learned that websites are just a combination of HTML, CSS, and something called jQuery (&lt;em&gt;where would we be without Quora?&lt;/em&gt;).  With this naive understanding, I forged ahead.&lt;/p&gt;
+&lt;p&gt;I copied some boilerplate HTML from W3Schools, plagiarized bits of CSS from StackOverflow, and gave up on jQuery (too much hassle).  After a couple of weeks, it was finished.  I purchased a domain name, set up hosting for $13 a month, and added the URL to my resume.  Now it was time to add some content.&lt;/p&gt;
+&lt;p&gt;While I knew that my posts would eventually need to be formatted in HTML, I feared this constraint might hamper my &amp;ldquo;creative juices.&amp;rdquo;  To protect my creativity, I typed my posts in a Word document and converted them to HTML once finished.&lt;/p&gt;
+&lt;p&gt;As you can imagine, this was tedious work.  Every section became a &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;, every paragraph became a &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tag, every link became an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag, and so on.  Mustering the drive to write a blog post is hard enough.  Turning it into a two-step process was asinine.&lt;/p&gt;
+&lt;p&gt;I completed just two posts.&lt;/p&gt;</description>
     </item>
     
   </channel>
