@@ -3,24 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lukeorth.com/</loc>
-    <lastmod>2023-02-07T05:32:16-06:00</lastmod>
-  </url><url>
-    <loc>https://lukeorth.com/tags/hugo/</loc>
-    <lastmod>2023-02-07T05:32:16-06:00</lastmod>
-  </url><url>
-    <loc>https://lukeorth.com/posts/</loc>
-    <lastmod>2023-02-07T05:32:16-06:00</lastmod>
-  </url><url>
-    <loc>https://lukeorth.com/posts/starting-with-hugo/</loc>
-    <lastmod>2023-02-07T05:32:16-06:00</lastmod>
-  </url><url>
-    <loc>https://lukeorth.com/tags/</loc>
-    <lastmod>2023-02-07T05:32:16-06:00</lastmod>
   </url><url>
     <loc>https://lukeorth.com/about/</loc>
   </url><url>
     <loc>https://lukeorth.com/about/about/</loc>
   </url><url>
     <loc>https://lukeorth.com/series/</loc>
+  </url><url>
+    <loc>https://lukeorth.com/tags/</loc>
   </url>
 </urlset>
